@@ -1,4 +1,4 @@
-### Hi there, I'm Ali Abdullah! 👋
+### Hi there, I'm Ali Abdulelah! 👋
 
 - 🔭 I'm passionate about Data Analysis and am currently advancing my skills in this field.
 - 🌱 I’m currently learning advanced techniques in Data Analysis.
