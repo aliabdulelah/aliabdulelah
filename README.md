@@ -3,7 +3,7 @@
 - 🔭 I'm passionate about Data Analysis and am currently advancing my skills in this field.
 - 🌱 I’m currently learning advanced techniques in Data Analysis.
 - 💼 I'm open to collaborating on projects related to Data Analysis and am eager to contribute to meaningful data-driven solutions.
-- 📫 You can reach me via email at [aliabdulelah96@outlook.com](mailto:aliabdulelah96@outlook.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/ali-abdulelah-835590229/).
+- 📫 You can reach me via email at [aliabdulelah96@outlook.com](mailto:aliabdulelah96@outlook.com) or connect with me on [LinkedIn]([https://www.linkedin.com/in/ali-abdulelah-835590229/](https://www.linkedin.com/in/ali-abdulelah/)).
 
 Let's leverage data to make informed decisions and drive impactful outcomes!
 
